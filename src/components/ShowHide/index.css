@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.main-heading {
+  color: #ffffff;
+  font-size: 38px;
+  font-weight: 900;
+}
+
+.firstBtn {
+  color: #dd1264;
+  font-size: 14px;
+  font-weight: 500;
+  height: 35px;
+  width: 185px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.secondBtn {
+  color: #dd1264;
+  font-size: 14px;
+  font-weight: 500;
+  height: 35px;
+  width: 185px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  height: 40vh;
+  width: 50%;
+}
+
+.joe {
+  background-color: #fddddb;
+  height: 100px;
+  width: 200px;
+  margin-top: 28px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  font-weight: 900;
+  border-radius: 12px;
+}
+
+.jonas {
+  background-color: #fddddb;
+  height: 100px;
+  width: 200px;
+  margin-top: 28px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  font-weight: 900;
+  border-radius: 12px;
+}
